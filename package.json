@@ -28,7 +28,7 @@
   "homepage": "https://github.com/ajcrod/react-boilerplate-1#readme",
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "rimraf": "^2.6.3",
